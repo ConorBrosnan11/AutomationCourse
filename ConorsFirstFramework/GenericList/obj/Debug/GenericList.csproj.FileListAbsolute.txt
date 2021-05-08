@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\GenericList\bin\Debug\GenericList.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\GenericList\bin\Debug\GenericList.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\GenericList\obj\Debug\GenericList.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\GenericList\obj\Debug\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\GenericList\obj\Debug\GenericList.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\GenericList\obj\Debug\GenericList.pdb

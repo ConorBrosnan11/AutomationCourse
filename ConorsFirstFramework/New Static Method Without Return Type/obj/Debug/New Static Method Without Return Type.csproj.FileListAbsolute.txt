@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\New Static Method Without Return Type\bin\Debug\New Static Method Without Return Type.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\New Static Method Without Return Type\obj\Debug\New Static Method Without Return Type.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\New Static Method Without Return Type\obj\Debug\New Static Method Without Return Type.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\New Static Method Without Return Type\obj\Debug\New Static Method Without Return Type.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\New Static Method Without Return Type\bin\Debug\New Static Method Without Return Type.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\New Static Method Without Return Type\obj\Debug\New Static Method Without Return Type.exe

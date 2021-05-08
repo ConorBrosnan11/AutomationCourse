@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\CreatingObject\bin\Debug\CreatingObject.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\CreatingObject\bin\Debug\CreatingObject.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\CreatingObject\obj\Debug\CreatingObject.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\CreatingObject\obj\Debug\CreatingObject.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\CreatingObject\obj\Debug\CreatingObject.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\CreatingObject\obj\Debug\CreatingObject.pdb

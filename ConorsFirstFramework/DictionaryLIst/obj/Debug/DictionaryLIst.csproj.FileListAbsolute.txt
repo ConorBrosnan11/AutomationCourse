@@ -1,0 +1,5 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DictionaryLIst\bin\Debug\DictionaryLIst.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DictionaryLIst\bin\Debug\DictionaryLIst.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DictionaryLIst\obj\Debug\DictionaryLIst.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DictionaryLIst\obj\Debug\DictionaryLIst.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DictionaryLIst\obj\Debug\DictionaryLIst.pdb

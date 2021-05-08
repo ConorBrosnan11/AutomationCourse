@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Collections\bin\Debug\Collections.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Collections\bin\Debug\Collections.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Collections\obj\Debug\Collections.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Collections\obj\Debug\Collections.pdb
