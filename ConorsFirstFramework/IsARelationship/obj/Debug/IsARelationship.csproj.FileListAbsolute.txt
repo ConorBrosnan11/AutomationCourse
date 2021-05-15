@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\IsARelationship\bin\Debug\IsARelationship.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\IsARelationship\obj\Debug\IsARelationship.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\IsARelationship\obj\Debug\IsARelationship.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\IsARelationship\obj\Debug\IsARelationship.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\IsARelationship\bin\Debug\IsARelationship.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\IsARelationship\obj\Debug\IsARelationship.exe

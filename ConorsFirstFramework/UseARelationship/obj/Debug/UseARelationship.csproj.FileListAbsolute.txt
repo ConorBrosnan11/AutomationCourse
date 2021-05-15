@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\UseARelationship\obj\Debug\UseARelationship.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\UseARelationship\obj\Debug\UseARelationship.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\UseARelationship\bin\Debug\UseARelationship.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\UseARelationship\bin\Debug\UseARelationship.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\UseARelationship\obj\Debug\UseARelationship.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\UseARelationship\obj\Debug\UseARelationship.pdb
