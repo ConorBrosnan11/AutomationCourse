@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\InterfaceExample\bin\Debug\InterfaceExample.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\InterfaceExample\bin\Debug\InterfaceExample.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\InterfaceExample\obj\Debug\InterfaceExample.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\InterfaceExample\obj\Debug\InterfaceExample.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\InterfaceExample\obj\Debug\InterfaceExample.pdb

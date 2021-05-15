@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ConorsFirstFramework\bin\Debug\ConorsFirstFramework.dll
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ConorsFirstFramework\bin\Debug\ConorsFirstFramework.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ConorsFirstFramework\obj\Debug\ConorsFirstFramework.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ConorsFirstFramework\obj\Debug\ConorsFirstFramework.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ConorsFirstFramework\obj\Debug\ConorsFirstFramework.dll
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ConorsFirstFramework\obj\Debug\ConorsFirstFramework.pdb

@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DefaultConstructor\bin\Debug\DefaultConstructor.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DefaultConstructor\bin\Debug\DefaultConstructor.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DefaultConstructor\obj\Debug\DefaultConstructor.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DefaultConstructor\obj\Debug\DefaultConstructor.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DefaultConstructor\obj\Debug\DefaultConstructor.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\DefaultConstructor\obj\Debug\DefaultConstructor.pdb

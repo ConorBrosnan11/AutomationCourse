@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Abstract_Classes_Example\obj\Debug\Abstract_Classes_Example.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Abstract_Classes_Example\obj\Debug\Abstract_Classes_Example.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Abstract_Classes_Example\bin\Debug\Abstract_Classes_Example.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Abstract_Classes_Example\bin\Debug\Abstract_Classes_Example.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Abstract_Classes_Example\obj\Debug\Abstract_Classes_Example.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\Abstract_Classes_Example\obj\Debug\Abstract_Classes_Example.pdb

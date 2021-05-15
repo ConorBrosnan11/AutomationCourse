@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\PropertiesExample\obj\Debug\PropertiesExample.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\PropertiesExample\obj\Debug\PropertiesExample.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\PropertiesExample\bin\Debug\PropertiesExample.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\PropertiesExample\bin\Debug\PropertiesExample.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\PropertiesExample\obj\Debug\PropertiesExample.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\PropertiesExample\obj\Debug\PropertiesExample.pdb

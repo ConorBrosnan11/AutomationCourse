@@ -1,0 +1,6 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\HasARelationship\bin\Debug\HasARelationship.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\HasARelationship\bin\Debug\HasARelationship.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\HasARelationship\obj\Debug\HasARelationship.csprojAssemblyReference.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\HasARelationship\obj\Debug\HasARelationship.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\HasARelationship\obj\Debug\HasARelationship.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\HasARelationship\obj\Debug\HasARelationship.pdb

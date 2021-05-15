@@ -1,0 +1,5 @@
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.pdb
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.exe
+C:\Users\conor.brosnan\Desktop\C# Basics\ConorsFirstFramework\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.pdb
